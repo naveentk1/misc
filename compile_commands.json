@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/Users/naveentk/sidejobs",
+    "command": "c++ -I/opt/homebrew/include -std=c++11 -c graphics.cpp -o graphics.o -L/opt/homebrew/lib -lglfw -framework OpenGL",
+    "file": "graphics.cpp"
+  }
+]
+
